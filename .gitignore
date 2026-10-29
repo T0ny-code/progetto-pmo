@@ -1,0 +1,19 @@
+# Output di compilazione
+bin/
+build/
+out/
+*.class
+
+# Metadati e workspace di Eclipse
+.metadata/
+.recommenders/
+tmp/
+
+# IDE varie
+.idea/
+*.iml
+.vscode/
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
